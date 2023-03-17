@@ -1,7 +1,7 @@
 [Back to HOME](https://github.com/camryngelliott/Midterm-Project-Spring-2023/blob/main/README.md)
 
 # Fun Facts
- * Favorite color: pink
+ * Favorite color: Pink
  * Favorite movie: Sabrina (1995) ([Movie Poster](https://github.com/camryngelliott/Sabrina-Poster/blob/main/README.md), [Opening Scene](https://github.com/camryngelliott/Midterm-Project-Spring-2023/blob/main/sabrina-opening-scene.md))
    * Honorable Mentions:
      * National Treasure
