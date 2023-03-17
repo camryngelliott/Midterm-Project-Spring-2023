@@ -2,7 +2,7 @@
 
 # Fun Facts
  * Favorite color: pink
- * Favorite movie: Sabrina (1995)
+ * Favorite movie: Sabrina (1995) ([Movie Poster](https://github.com/camryngelliott/Sabrina-Poster/blob/main/README.md), [Opening Scene]())
    * Honorable Mentions:
      * National Treasure
      * Night at the Museum
