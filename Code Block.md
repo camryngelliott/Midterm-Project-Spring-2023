@@ -1,18 +1,20 @@
+[Back to HOME](https://github.com/camryngelliott/Midterm-Project-Spring-2023/blob/main/README.md)
+
+
 <!DOCTYPE html>
 <html>
-<title>This is an example of a code block!<title/>
-<script>
+<head>
+<body>
 
 <h1>Happy Face Image</h1>
  <img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/4199zzjb7KS._AC_.jpg" alt="Happy Face">
   <p>The image I chose to include in this code block is a happy face. I think it is very simple and a good option
   when you aren't sure what picture would be best to include in a project. In my opinion, it was a safe option.</p>
 
-</script>
 
 </head>
 
 </div>
 </body>
 
-</html>
+</html> 
